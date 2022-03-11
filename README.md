@@ -1,2 +1,2 @@
 # Handcrafted-bikes
-Project made for the Project Code Phase I from the New York Public Library.
+Landpage project made for the Project Code Phase I from the New York Public Library.
